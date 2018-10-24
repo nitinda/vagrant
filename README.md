@@ -26,4 +26,4 @@ Following software are required for this:
 ## CentOS7
 The CentOS7 Vagrant box is a minimal CentOS7 installation with Virtualbox
 Guest Additions 5.1.x or the latest version of Virtualbox available at the
-time of build.
+time of build."# windows-ami-aws" 

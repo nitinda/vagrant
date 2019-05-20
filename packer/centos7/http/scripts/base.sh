@@ -14,13 +14,13 @@ sudo chmod 0440 /etc/sudoers.d/vagrant
 
 # Install vboxadd-service and vboxadd
 
-sudo yum -y install vboxadd-service vboxadd
+# sudo yum -y install vboxadd-service vboxadd
 
-sudo systemctl enable vboxadd-service.service
-sudo systemctl enable vboxadd.service
+# sudo systemctl enable vboxadd-service.service
+# sudo systemctl enable vboxadd.service
 
-sudo systemctl start vboxadd.service
-sudo systemctl start vboxadd-service.service
+# sudo systemctl start vboxadd.service
+# sudo systemctl start vboxadd-service.service
 
 
 # Rest yum operations
